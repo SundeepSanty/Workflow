@@ -1,9 +1,12 @@
 @use 'sass:math';
 
 @mixin theme {
-	--color-primary-h: var(--prim-color-primary-h);
-	--color-primary-s: var(--prim-color-primary-s);
-	--color-primary-l: 68%;
+	// --color-primary-h: var(--prim-color-primary-h);
+	// --color-primary-s: var(--prim-color-primary-s);
+	// --color-primary-l: 68%;
+	--color-primary-h: 0;
+	--color-primary-s: 0%;
+	--color-primary-l: 100%;
 
 	// Primary tokens
 
